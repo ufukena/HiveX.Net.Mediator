@@ -8,7 +8,7 @@ namespace HiveX.Net.TestConsole.Context
     public class DatabaseContext : IDatabaseContext
     {
 
-        public string GetConnection => "Your connection goes gere..";
+        public string GetConnection => "Your connection goes here..";
 
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////
